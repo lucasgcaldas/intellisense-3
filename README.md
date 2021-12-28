@@ -1,5 +1,8 @@
 # 🚀English Challenge - Intellisense
 
+## Challenge 1 - https://github.com/lucasgcaldas/intellisense-1
+## Challenge 2 - https://github.com/lucasgcaldas/intellisense-2
+
 ### 📖 The Questions 
 
 - [ ] What is an AGI?
